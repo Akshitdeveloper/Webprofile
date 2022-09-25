@@ -4,7 +4,7 @@
 	font-family: 'Josefin Sans', sans-serif;
 	box-sizing: border-box;
 }
-.hero{
+.home{
 	height: 100vh;
 	width: 100%;
 	background-image: url(../img/background.jpg);
@@ -56,7 +56,7 @@ nav ul li a:hover{
 .btn:hover{
 	transform: scale(1.2);
 }
-.content{
+.profile{
 	position: absolute;
 	top: 50%;
 	left:8%;
@@ -160,11 +160,37 @@ button:hover{
 	cursor: pointer;
 }
 
-.service{
+.about{
 	background: #101010;
 	width: 100%;
 	padding: 100px 0px;
 }
+.education{
+	background: #101010;
+	width: 100%;
+	padding: 100px 0px;
+}
+.skills{
+	background: #101010;
+	width: 100%;
+	padding: 100px 0px;
+}
+.hobbies{
+	background: #101010;
+	width: 100%;
+	padding: 100px 0px;
+}
+.map{
+	background: #101010;
+	width: 100%;
+	padding: 100px 0px;
+}
+.links{
+	background: #101010;
+	width: 100%;
+	padding: 100px 0px;
+}
+
 .title h2{
 	color: white;
 	font-size: 75px;
@@ -276,10 +302,10 @@ footer p:nth-child(2){
 	text-align: center;
 	line-height: 26px;
 }
-.social{
+.connect{
 	display: flex;
 }
-.social a{
+.connect a{
 	width: 45px;
 	height: 45px;
 	display: flex;
@@ -292,7 +318,7 @@ footer p:nth-child(2){
 	text-decoration: none;
 	font-size: 20px;
 }
-.social a:hover{
+.connect a:hover{
 	transform: scale(1.3);
 	transition: .3s;
 }
