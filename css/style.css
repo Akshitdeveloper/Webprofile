@@ -161,7 +161,7 @@ button:hover{
 }
 
 .about{
-	background: #101010;
+	background: #1f1f1f;
 	width: 100%;
 	padding: 100px 0px;
 }
@@ -171,24 +171,19 @@ button:hover{
 	padding: 100px 0px;
 }
 .skills{
-	background: #101010;
+	background: #1f1f1f;
 	width: 100%;
-	padding: 100px 0px;
+	padding: 90px 0px;
 }
 .hobbies{
-	background: #101010;
+	background: #1f1f1f;
 	width: 100%;
-	padding: 100px 0px;
+	padding: 90px 0px;
 }
 .map{
 	background: #101010;
 	width: 100%;
-	padding: 100px 0px;
-}
-.links{
-	background: #101010;
-	width: 100%;
-	padding: 100px 0px;
+	padding: 90px 0px;
 }
 
 .title h2{
@@ -205,7 +200,7 @@ button:hover{
 	min-height: 400px;
 }
 .card{
-	height: 365px;
+	height: 400px;
 	width: 335px;
 	padding: 20px 35px;
 	background: #191919;
